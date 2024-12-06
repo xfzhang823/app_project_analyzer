@@ -1,0 +1,30 @@
+# Ignore .env file
+.env
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore virtual environment files
+env/
+venv/
+__pycache__/
+
+# Ignore logs
+*.log
+
+# Ignore byte-compiled Python files
+*.pyc
+
+# Ignore node_modules (if you're using Node.js)
+node_modules/
+
+# Ignore build artifacts (if you're using a build tool)
+build/
+dist/
+
+# Add any other files or directories you want to ignore
